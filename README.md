@@ -2,4 +2,4 @@
 
 A simple React application to count words as they are typed, and display a progress bar.
 
-![screenshot](app_screenshot)
+![screenshot](app_screenshot.png)
